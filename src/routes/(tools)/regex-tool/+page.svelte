@@ -38,7 +38,7 @@
   }
 </script>
 
-<div class="max-w-4xl mx-auto p-6 bg-white dark:bg-gray-900 shadow-lg rounded-lg">
+<div class="max-w-4xl mx-auto p-6 bg-white dark:bg-gray-800 shadow-lg rounded-lg">
   <h1 class="text-3xl font-bold mb-6 text-center text-gray-900 dark:text-white">RegEx Tester</h1>
   <div class="space-y-6">
     <div class="space-y-4">
