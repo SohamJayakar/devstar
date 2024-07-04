@@ -85,7 +85,7 @@
 		</div>
 	  </div>
 	  <div class="flex-1">
-		<label for="patternDropdown" class="block text-lg font-medium text-gray-700 dark:text-gray-300">Predefined Patterns:</label>
+		<label for="patternDropdown" class="block text-lg font-medium text-gray-700 dark:text-gray-300">Regex Patterns:</label>
 		<select id="patternDropdown" class="w-full p-2 border border-gray-300 rounded dark:bg-gray-700 dark:text-white text-sm" on:change={applyPattern}>
 		  <option value="">Select a pattern</option>
 		  {#each Object.keys(regexPatterns) as pattern}
